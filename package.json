@@ -1,6 +1,6 @@
 {
   "name": "e-commerce",
-  "version": "16.14.0",
+  "version": "1.0.0",
   "description": "Real world e-commerce application",
   "main": "backend/server.js",
   "scripts": {
