@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/commerce/node_modules
+/commerce/.pnp
+/commerce/.pnp.js
+
+# testing
+/commerce/coverage
+
+# production
+/commerce/build
+
+# misc
+/backend/config/config.env
+/commerce/.DS_Store
+/commerce/.env.local
+/commerce/.env.development.local
+/commerce/.env.test.local
+/commerce/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
