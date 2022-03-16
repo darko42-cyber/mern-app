@@ -1,6 +1,9 @@
 {
   "name": "e-commerce",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.14.0"
+  },
   "description": "Real world e-commerce application",
   "main": "backend/server.js",
   "scripts": {
