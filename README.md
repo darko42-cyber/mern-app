@@ -4,7 +4,7 @@
 
 **For Backend** - `npm i`
 
-**For Frontend** - `cd frontend` ` npm i`
+**For Frontend** - `cd commerce` ` npm i`
 
 ## Env Variables
 
